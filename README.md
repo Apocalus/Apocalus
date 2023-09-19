@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beea</h1>
 <h3 align="center">A Tech Enthusiast from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/dZX3AduGrY3uJ7qCsx" width="480" height="360" frameBorder="0" class="giphy-embed"/>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/dZX3AduGrY3uJ7qCsx"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apocalus&label=Profile%20views&color=0e75b6&style=flat" alt="apocalus" /> </p>
 
