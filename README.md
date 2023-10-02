@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Canteen Management System](https://github.com/Apocalus/Canteen-Management-System-ver2)
 
-- 🌱 I’m currently learning **MERN full stack development**
+- 🌱 I’m currently learning **Full stack development**
 
 - 💬 Ask me about **Front-end development, Javascript, Python**
 
