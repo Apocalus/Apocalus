@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beea</h1>
-<h3 align="center">A Tech Enthusiast from <span style={color: red}>Pakistan</span></h3>
+<h3 align="center">A Tech Enthusiast from Pakistan</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apocalus&label=Profile%20views&color=0e75b6&style=flat" alt="apocalus" /> </p>
