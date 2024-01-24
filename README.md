@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science** & **Full Stack Development**
 
-- 💬 Ask me about **Front-end development, Javascript, Python**
+- 💬 Ask me about **Python, Javascript & more**
 
 - 📫 How to reach me **rabeea.salman8@gmail.com**
 
