@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Canteen Management System](https://github.com/Apocalus/Canteen-Management-System)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Data Science** & **Full Stack Development**
 
 - 💬 Ask me about **Front-end development, Javascript, Python**
 
