@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apocalus&label=Profile%20views&color=0e75b6&style=flat" alt="apocalus" /> </p>
 
-- 🔭 I am currently pursuing certifications such as the Google Cyber Security Certificate and CompTIA Security+ to enhance my technical skills and gain practical experience in system protection. Additionally, I am working on my Final Year Project, where I am developing a full-stack application.
+- 🔭 I am currently pursuing certifications such as the <b>Google Cyber Security Certificate and CompTIA Security+</b> to enhance my technical skills and gain practical experience in system protection. Additionally, I am working on my Final Year Project, where I am developing a full-stack application.
 - 🌱 I’m currently learning **Cyber Security** & **Full Stack Development**
 
 - 💬 Ask me about **Python, Javascript & more**
