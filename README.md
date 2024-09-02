@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rabeea</h1>
-<h3 align="center">A Tech Enthusiast from Pakistan</h3>
+<h3 align="center">An Aspiring Cybersecurity Analyst</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apocalus&label=Profile%20views&color=0e75b6&style=flat" alt="apocalus" /> </p>
 
-- 🔭 I’m currently working on [Canteen Management System](https://github.com/Apocalus/Canteen-Management-System)
-
+- 🔭 I am currently pursuing certifications such as the Google Cyber Security Certificate and CompTIA Security+ to enhance my technical skills and gain practical experience in system protection. Additionally, I am working on my Final Year Project, where I am developing a full-stack application.
 - 🌱 I’m currently learning **Cyber Security** & **Full Stack Development**
 
 - 💬 Ask me about **Python, Javascript & more**
